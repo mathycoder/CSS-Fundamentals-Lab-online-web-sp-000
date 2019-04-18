@@ -11,3 +11,7 @@ header {
 section#featured-property figure {
   text-align: center;
 }
+
+nav a {
+  background-color: green;
+}
