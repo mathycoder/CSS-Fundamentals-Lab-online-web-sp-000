@@ -8,7 +8,7 @@ header {
   text-align: center;
 }
 
-section#featured-property figure {
+#featured-property figure {
   text-align: center;
 
 }
@@ -19,7 +19,7 @@ nav a {
   padding-right: 10px;
 }
 
-section#featured-property p {
+#featured-property p {
   width:800px;
   text-align: center;
 }
