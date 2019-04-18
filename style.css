@@ -10,11 +10,11 @@ header {
 
 section#featured-property figure {
   text-align: center;
-  padding-left: 30px;
-  padding-right: 30px;
+
 }
 
 nav a {
   background-color: #00D1D1;
-  
+  padding-left: 30px;
+  padding-right: 30px;
 }
